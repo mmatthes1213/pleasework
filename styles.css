@@ -1,0 +1,29 @@
+p{
+    font-weight: bold;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic; 
+    color:rgb(216, 143, 167) 
+}
+
+body{
+    background-color: aliceblue
+    font-family: 'gill sans', "gill sans MT";
+    text-align: center;
+    border: 5px black;
+    margin: 80px;
+    padding: 100px;
+    
+
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
